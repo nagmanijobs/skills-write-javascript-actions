@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/nagmanijobs/skills-write-javascript-actions#readme",
   "dependencies": {
-    "@actions/core": "^3.0.0",
+    "git@actions/core": "^3.0.0",
     "@vercel/ncc": "^0.38.4"
   }
 }
